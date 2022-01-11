@@ -113,7 +113,6 @@ namespace mShed.Game.Snap.GameProviders
             }
 
             var top2Cards = _pile
-                .ToArray()
                 .TakeLast(2)
                 .ToArray();
 
