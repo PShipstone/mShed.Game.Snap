@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Cards\SimpleShuffleDeckProvider.cs~RFad1dca7.TMP" />
+    <None Remove="GameProviders\IGameType.cs~RFae70fa8.TMP" />
+    <None Remove="IGame.cs~RFa037414.TMP" />
+    <None Remove="IGame.cs~RFb4bdd23.TMP" />
+    <None Remove="Player.cs~RFa0e4379.TMP" />
+    <None Remove="SnapGame.cs~RFa24b061.TMP" />
+    <None Remove="StandardGame.cs~RFa19ddfe.TMP" />
+  </ItemGroup>
+
+</Project>
